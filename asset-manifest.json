@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Restaurant_React/static/css/main.2dd1bb90.css",
+    "main.js": "/Restaurant_React/static/js/main.de187808.js",
+    "static/media/Fon.jpg": "/Restaurant_React/static/media/Fon.6488aa68380104df1a35.jpg",
+    "static/media/reviews.jpg": "/Restaurant_React/static/media/reviews.157bd7c6352212c6ef70.jpg",
+    "static/media/ingredients.jpg": "/Restaurant_React/static/media/ingredients.932a6bbdec20d8b492a5.jpg",
+    "static/media/dish.png": "/Restaurant_React/static/media/dish.7da543ce12dd3fd41da5.png",
+    "static/media/foto__1.jpg": "/Restaurant_React/static/media/foto__1.d3a2865ca4c16057e4ba.jpg",
+    "static/media/foto__2.jpg": "/Restaurant_React/static/media/foto__2.c284d726e9be3986c422.jpg",
+    "static/media/cook.png": "/Restaurant_React/static/media/cook.fbb611e06d6480c9c9b9.png",
+    "static/media/Ellipse2.png": "/Restaurant_React/static/media/Ellipse2.9388d89b3df33c05313f.png",
+    "static/media/Ellipse1.png": "/Restaurant_React/static/media/Ellipse1.485e86cadd660fa5d82f.png",
+    "static/media/Ellipse3.png": "/Restaurant_React/static/media/Ellipse3.78e0a46842c480b1ccac.png",
+    "index.html": "/Restaurant_React/index.html",
+    "main.2dd1bb90.css.map": "/Restaurant_React/static/css/main.2dd1bb90.css.map",
+    "main.de187808.js.map": "/Restaurant_React/static/js/main.de187808.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dd1bb90.css",
+    "static/js/main.de187808.js"
+  ]
+}
