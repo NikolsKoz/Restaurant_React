@@ -1,0 +1,55 @@
+.menu {
+    background-image: linear-gradient(to left, #7777, #0000);
+}
+.menu-block {
+    text-align: center;
+}
+
+.menu h1,
+.menu h2,
+.menu h3,
+.menu hr {
+    color: #CC9900;
+}
+
+.menu h2 {
+    text-align: center;
+}
+
+.menu h2::after {
+    content: url(../../assets/images/Vector2.png);
+    display: block;
+    margin: 0px auto;
+}
+
+.menu h3 {
+    line-height: 5px;
+    margin-top: 30px;
+    text-decoration: underline;
+    text-decoration-color: #CC9900;
+}
+
+@media (max-width: 319px) {
+    .menu h3 {
+        font-size: 16px;
+    }
+}
+
+.menu h4 {
+    line-height: 5px;
+    margin: 20px 0 50px 0;
+}
+
+.menu1,
+.menu2 {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+@media (max-width: 1200px) {
+    .menu1,
+    .menu2 {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+}

@@ -1,0 +1,97 @@
+[
+  [
+    {
+      "name": "Appetisers",
+      "dish_1": "Grilled fish",
+      "dish_2": "Chicken and rice",
+      "dish_3": "Vegetable pasta",
+      "prise_1": "$10.00",
+      "prise_2": "$8.50",
+      "prise_3": "$6.90",
+      "time_1": "Waiting time for food - 20 min.",
+      "time_2": "Waiting time for food - 35 min.",
+      "time_3": "Waiting time for food - 18 min."
+    },
+    {
+      "name": "Starters",
+      "dish_1": "Tomato soup",
+      "dish_2": "Crispy corn",
+      "dish_3": "Chicken soup",
+      "prise_1": "$10.50",
+      "prise_2": "$12.50",
+      "prise_3": "$15.00",
+      "time_1": "Waiting time for food - 15 min.",
+      "time_2": "Waiting time for food - 20 min.",
+      "time_3": "Waiting time for food - 10 min."
+    },
+    {
+      "name": "Salads",
+      "dish_1": "Guacamole salad",
+      "dish_2": "Chicken salad",
+      "dish_3": "Cesar salad",
+      "dish_4": "Greek salad",
+      "prise_1": "$8.00",
+      "prise_2": "$7.50",
+      "prise_3": "$5.00",
+      "prise_4": "$5.50",
+      "time_1": "Waiting time for food - 10 min.",
+      "time_2": "Waiting time for food - 12 min.",
+      "time_3": "Waiting time for food - 7 min.",
+      "time_4": "Waiting time for food - 9 min."
+    },
+    {
+      "name": "Desserts",
+      "dish_1": "Fruit and cream",
+      "dish_2": "Ice cream",
+      "dish_3": "Chocolate cake",
+      "dish_4": "Apple pie",
+      "prise_1": "$6.00",
+      "prise_2": "$5.50",
+      "prise_3": "$5.00",
+      "prise_4": "$4.50",
+      "time": "Meal waiting time - 10min",
+      "time_1": "Waiting time for food - 9 min.",
+      "time_2": "Waiting time for food - 5 min.",
+      "time_3": "Waiting time for food - 10 min.",
+      "time_4": "Waiting time for food - 7 min."
+    }
+ ],
+ [
+   {
+     "h1": "the right ingredients the right food",
+     "title_block_1":"Just the right food",
+     "text_block_1": "Harmony of flavors on your plate. Perfect materials and freshly baked food, delicious Lambda cakes, muffins, and gourmet coffees make us hard to resist! Stop in today and check us out!",
+     "title_block_2":"Fine ingredients",
+     "text_block_2": "Tasty and healthy food is always a good idea. If you’ve been to one of our restaurants, you’ve seen – and tasted – what keeps our customers coming back for more.",
+     "title_block_3":"Order table",
+     "text_block_3": "If you’ve been to one of our restaurants, you’ve seen – and tasted – what keeps our customers coming back for more. Perfect materials and freshly baked food."
+   }
+ ],
+ [
+   {
+     "title": "Feedback from our customers",
+      "content": "Celebrated DR in a cafe. I liked all the dishes very much, very tasty and unusual!! Thanks to the chefs who know their business. Special thanks to the administrator Diana for organizing the event and helping in choosing dishes. And the prices are very good too! We will definitely be regular customers!!",
+      "name": "Michael Prelis from New York"
+    },
+   {
+     "title": "Feedback from our customers",
+      "content": "Very cozy place, insanely delicious dishes. Very friendly waiters. And EVERYTHING!!!!!! I have been to the coffee restaurant more than once and will come. Good luck and prosperity)))",
+      "name": "Gina Johnson from Boston"
+    },
+    {
+      "title": "Feedback from our customers",
+      "content": "An excellent selection of cuisines from different countries and continents. The waitress Martha turned out to be a very effective guide and adviser in all this diversity. Many thanks!!! I especially liked the chupe soup and fajitas...",
+      "name": "Mila Mitich from New York"
+    },
+    {
+      "title": "Feedback from our customers",
+      "content": "Ordered a gala dinner for the office. Prepared and delivered quickly. The food is very tasty and filling. Many thanks to the consultant Gulya. We will order more",
+      "name": "Michael Conor from New York"
+    },
+    {
+      "title": "Feedback from our customers",
+      "content": "Mmm...very tasty! I love your cafe very much, thanks to all the chefs! Today we ate fajitas new with veal, we are delighted!",
+      "name": "Niko Marsi from Boston"
+    }
+  ]
+]

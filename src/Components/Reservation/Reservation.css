@@ -1,0 +1,40 @@
+.reservation {
+    background-image: linear-gradient(to left, #7777, #0000);}
+
+.foto__appetisers img {
+    width: 48%;
+    margin: 0 1%;
+    float: left; }
+#desert1 {
+    content: url("../../assets/images/foto__1.jpg");
+}
+#desert2 {
+    content: url("../../assets/images/foto__2.jpg");
+}
+.appetisers {
+    padding: 30px 60px;
+    text-align: center;
+    align-content: center; }
+.appetisers h2 {
+    color: #CC9900; }
+.appetisers h2::after {
+    content: url(../../assets/images/Vector2.png);
+    display: block;
+    margin-bottom: 50px;}
+.appetisers label {
+    font-weight: bold;
+    color: #CC9900;
+    text-align: left;
+    margin-left: 5px; }
+.appetisers input {
+    padding: 2px;
+    color: #9B9B9B;
+    border: 1px solid #9B9B9B;
+    font-style: italic; }
+.appetisers button {
+    height: 35px;
+    width: 190px;
+    color: #ffffff;
+    background-color: #CC9900;
+    border: none;
+    margin-top: 30px; }

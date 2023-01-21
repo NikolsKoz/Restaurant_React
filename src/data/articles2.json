@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Appetisers",
+    "dish_1": "Grilled fish",
+    "dish_2": "Chicken and rice",
+    "dish_3": "Vegetable pasta",
+    "prise_1": "$10.00",
+    "prise_2": "$8.50",
+    "prise_3": "$6.90",
+    "time_1": "Waiting time for food - 20 min.",
+    "time_2": "Waiting time for food - 35 min.",
+    "time_3": "Waiting time for food - 18 min."
+  },
+  {
+    "name": "Starters",
+    "dish_1": "Tomato soup",
+    "dish_2": "Crispy corn",
+    "dish_3": "Chicken soup",
+    "prise_1": "$10.50",
+    "prise_2": "$12.50",
+    "prise_3": "$15.00",
+    "time_1": "Waiting time for food - 15 min.",
+    "time_2": "Waiting time for food - 20 min.",
+    "time_3": "Waiting time for food - 10 min."
+  },
+  {
+    "name": "Salads",
+    "dish_1": "Guacamole salad",
+    "dish_2": "Chicken salad",
+    "dish_3": "Cesar salad",
+    "dish_4": "Greek salad",
+    "prise_1": "$8.00",
+    "prise_2": "$7.50",
+    "prise_3": "$5.00",
+    "prise_4": "$5.50",
+    "time_1": "Waiting time for food - 10 min.",
+    "time_2": "Waiting time for food - 12 min.",
+    "time_3": "Waiting time for food - 7 min.",
+    "time_4": "Waiting time for food - 9 min."
+  },
+  {
+    "name": "Desserts",
+    "dish_1": "Fruit and cream",
+    "dish_2": "Ice cream",
+    "dish_3": "Chocolate cake",
+    "dish_4": "Apple pie",
+    "prise_1": "$6.00",
+    "prise_2": "$5.50",
+    "prise_3": "$5.00",
+    "prise_4": "$4.50",
+    "time": "Meal waiting time - 10min",
+    "time_1": "Waiting time for food - 9 min.",
+    "time_2": "Waiting time for food - 5 min.",
+    "time_3": "Waiting time for food - 10 min.",
+    "time_4": "Waiting time for food - 7 min."
+  }
+]

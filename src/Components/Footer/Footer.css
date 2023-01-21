@@ -1,0 +1,29 @@
+footer {
+    margin: 0;
+    padding: 50px;
+    background-color: #4c4c4c;
+    color: #ffffff;
+    text-align: center;
+}
+
+footer h3::after {
+    content: url(../../assets/images/Vector3.png);
+    display: block;
+    margin: 24px auto;
+}
+
+.logo {
+    width: 44px;
+    height: 28px;
+    margin: 10px 5px;
+}
+
+.one,
+.three {
+    background-image: url(../../assets/images/pay.png);
+}
+
+.two,
+.four {
+    background-image: url(../../assets/images/web.png);
+}

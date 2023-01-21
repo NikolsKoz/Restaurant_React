@@ -1,0 +1,24 @@
+.about {
+    background-image: linear-gradient(to left, #7777, #0000);}
+
+.about__text {
+    text-align: center;
+    text-shadow: none; }
+.about__foto::after {
+    content: url(../../assets/images/dish.png);
+    display: block;
+    margin: 0; }
+
+.text__content h2 {
+    color: #CC9900;
+    font-size: 36px;
+    line-height: 42px; }
+.text__content h2::after {
+    content: url(../../assets/images/Vector2.png);
+    display: block;
+    margin: 20px auto; }
+
+.text__foto::after {
+    content: url(../../assets/images/cook.png);
+    display: block;
+    margin: 20px 0 0 100px; }

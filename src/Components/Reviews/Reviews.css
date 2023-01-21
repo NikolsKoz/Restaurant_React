@@ -1,0 +1,53 @@
+.reviews {
+    display: flex;
+    align-items: center;
+    background-image: url(../../assets/images/reviews.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.reviews .rectangle {
+    height: 513px;
+}
+
+.rectangle {
+    background: rgba(0, 0, 0, 0.8) no-repeat center top;
+    background-size: cover;
+    color: #ffffff;
+    padding: 5vw;
+    text-align: center;
+}
+
+.rectangle h2 {
+    font-size: 36px;
+    line-height: 42px;
+}
+
+.rectangle h2::after {
+    content: url(../../assets/images/Vector3.png);
+    display: block;
+    margin: 20px auto;
+}
+@media (max-width: 1078px) {
+    .ellipse1, .ellipse2, .ellipse3 {
+        display: none;
+    }
+}
+
+.ellipse1::after {
+    content: url(../../assets/images/Ellipse1.png);
+    display: block;
+    margin: 0;
+}
+
+.ellipse2::after {
+    content: url(../../assets/images/Ellipse2.png);
+    display: block;
+    margin: 0;
+}
+
+.ellipse3::after {
+    content: url(../../assets/images/Ellipse3.png);
+    display: block;
+    margin: 0;
+}
